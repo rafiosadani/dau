@@ -1,0 +1,6 @@
+1.Field id_cab di tabel cabang
+2.Tabel vw_prl_tot
+3.Tabel vw_harian_gabung
+4.Field usrid di tabel sec_users
+5.Field idusr_v di tabel keu_j
+6.Tabel jungut

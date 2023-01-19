@@ -1,0 +1,168 @@
+// 13 februari 2019
+
+- Program.php (controller)
+- Mprogram.php (model)
+- per_program.php (view)
+- rekap_perprogram.php (view)
+- routes.php (config)
+- sidebar.php (view/partials)
+
+// 14 februari 2019
+
+- Donatur.php (controller)
+- Mdonatur.php (model)
+- M_donatur.php (model)
+- donatur.php (view)
+- edit donatur.php (view)
+- sidebar_user.php (view/partials)
+
+// 20 februari 2019
+
+- Program.php (controller)
+- Donatur.php (controller)
+- Mbatal.php (model)
+- batal_setor.php (view)
+
+// 21 februari 2019
+
+- Bank.php (controller)
+- Mbank.php (models)
+- per_bank.php (view)
+- rekap_perbank.php (view)
+- sidebar.php (view/partial)
+- routes.php (config)
+
+// 26 februari 2019
+
+- Donatur.php (controller)
+- Bank.php (controller)
+- batal_setor.php (view)
+
+// 27 februari 2019 
+
+- Donatur.php (controller)
+- Mbank.php (models)
+- sidebar.php (view/partials)
+- batal_setor.php (view)
+
+// 1 maret 2019
+
+- routes.php (config)
+- Harian.php (controller)
+- Mprogram.php (models)
+- harian.php (views)
+- rekap_harian.php (views)
+- sidebar.php (views/partials)
+- sidebar_user.php (views/partials)
+- rekap_rinci_bank.php (views)
+- rinci_bank.php (views)
+- Rinci_slip.php (controller)
+- Mrinci_slip.php (models)
+
+// 4 maret 2019
+
+- routes.php (config)
+- Slipbank.php (controller)
+- Mslip_bank.php (models)
+- slip_bank.php (views)
+- rekap_slip_bank.php (views)
+- sidebar.php (views/partials)
+
+// 5 maret 2019
+
+- routes.php (config)
+- Validasi.php (controller)
+- Mvalidasi.php (models)
+- validasi.php (views)
+- rekap_validasi.php (views)
+- sidebar.php (views/partials)
+
+// 6 maret 2019
+
+- Prestasi.php (controller)
+- Per_petugas.php (controller)
+- Mprestasi.php (models)
+- Mper_petugas.php (models)
+- prestasi.php (views)
+- rekap_prestasi.php (views)
+- per_petugas.php (views)
+- rekap_per_petugas.php (views)
+
+// 9 maret 2019
+
+- Mprogram.php
+
+// 10 maret 2019
+
+- routes.php (config)
+- Valkasir.php (controller)
+- Setoran.php (controller)
+- Perbulan.php (controller)
+- Mvalkasir.php (models)
+- Msetoran.php (models)
+- Mperbulan.php (models)
+- validasi_kasir.php (views)
+- rekap_validasi_kasir.php (views)
+- setoran.php (views)
+- rekap_setoran.php (views)
+- per_bulan.php (views)
+- rekap_perbulan.php (views)
+- sidebar.php (views/partials)
+- sidebar_user.php (views/partials)
+- modal.php (views/partials)
+- Rekap harian semua jungut sesuai group_id : 
+    - Harian.php (controller)
+    - Mprogram.php (models)
+    - harian.php (views)
+
+// 14 maret 2019 
+
+- Mvalidasi.php (models)
+- Valkasir.php (controller)
+- Mvalkasir.php (models)
+- validasi_kasir.php (views)
+
+// 15 maret 2019
+
+- Valkasir.php (controller)
+
+++Ahmad & dimas++
+- routes.php (config)
+- Slipmanual.php (controller)
+- Gagal_kwitansi.php (controller)
+- Mslip_manual.php (models)
+- M_ggkwitansi.php (models)
+- slip_manual.php (views)
+- gagal_kwitansi.php (views)
+- rekap_gagal_kwitansi.php (views)
+- rekap_validasi_gagal_kwitansi.php (views)
+- sidebar.php (views/partials)
+
+// 18 maret 2019
+
+- routes.php (config)
+- Kwsn_nol.php (controller)
+- Mkwsn_nol.php (models)
+- kawasan_nol.php (views)
+- rekap_data_kawasan_nol.php (views)
+- rekap_kawasan_nol.php (views)
+- sidebar.php (views/partials)
+
+// 19 maret 2019
+
+- routes.php (config)
+- Kwsn_nol.php (controller)
+- kawasan_nol.php (views)
+- rekap_data_kawasan_nol.php (views)
+- rekap_kawasan_nol.php (views)
+- sidebar.php (views/partials)
+- header.php (views/partials)
+
+- Mpage.php (models)
+- Page.php (controller)
+- dashboard.php (views)
+
+- Rkay.php (controller)
+- Mrkay.php (models)
+- rkay.php (views)
+- rekap_rkay.php (views)
